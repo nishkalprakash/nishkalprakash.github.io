@@ -1,0 +1,35 @@
+[19-Feb-2016 15:08:32 Etc/GMT] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/siemats4/public_html/feedback.php on line 6
+[19-Feb-2016 15:11:13 Etc/GMT] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/siemats4/public_html/feedback.php on line 6
+[19-Feb-2016 15:11:44 Etc/GMT] PHP Notice:  Undefined index: name in /home/siemats4/public_html/feedback.php on line 3
+[19-Feb-2016 15:11:44 Etc/GMT] PHP Notice:  Undefined index: email in /home/siemats4/public_html/feedback.php on line 4
+[19-Feb-2016 15:11:44 Etc/GMT] PHP Notice:  Undefined index: mg in /home/siemats4/public_html/feedback.php on line 5
+[19-Feb-2016 15:11:44 Etc/GMT] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/siemats4/public_html/feedback.php on line 6
+[19-Feb-2016 18:38:48 Etc/GMT] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/siemats4/public_html/feedback.php on line 6
+[20-Feb-2016 12:44:59 Etc/GMT] PHP Notice:  Undefined index: mg in /home/siemats4/public_html/feedback.php on line 4
+[20-Feb-2016 13:02:25 Etc/GMT] PHP Notice:  Undefined index: mg in /home/siemats4/public_html/feedback.php on line 4
+[20-Feb-2016 15:07:15 Etc/GMT] PHP Notice:  Undefined index: mg in /home/siemats4/public_html/feedback.php on line 4
+[20-Feb-2016 15:12:03 Etc/GMT] PHP Notice:  Undefined index: mg in /home/siemats4/public_html/feedback.php on line 4
+[20-Feb-2016 18:06:30 Etc/GMT] PHP Notice:  Undefined index: mg in /home/siemats4/public_html/feedback.php on line 4
+[21-Feb-2016 05:37:22 Etc/GMT] PHP Notice:  Undefined index: mg in /home/siemats4/public_html/feedback.php on line 4
+[21-Feb-2016 05:38:04 Etc/GMT] PHP Notice:  Undefined index: mg in /home/siemats4/public_html/feedback.php on line 4
+[21-Feb-2016 05:38:18 Etc/GMT] PHP Notice:  Undefined index: mg in /home/siemats4/public_html/feedback.php on line 4
+[24-Feb-2016 11:33:58 Etc/GMT] PHP Warning:  include(Login_alacrity/link.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/siemats4/public_html/feedback.php on line 5
+[24-Feb-2016 11:33:58 Etc/GMT] PHP Warning:  include(Login_alacrity/link.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/siemats4/public_html/feedback.php on line 5
+[24-Feb-2016 11:33:58 Etc/GMT] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Login_alacrity/link.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/siemats4/public_html/feedback.php on line 5
+[24-Feb-2016 11:33:58 Etc/GMT] PHP Notice:  Undefined variable: link in /home/siemats4/public_html/feedback.php on line 6
+[24-Feb-2016 11:33:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/siemats4/public_html/feedback.php on line 6
+[25-Feb-2016 02:06:43 Etc/GMT] PHP Warning:  include(Login_alacrity/link.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/siemats4/public_html/feedback.php on line 5
+[25-Feb-2016 02:06:43 Etc/GMT] PHP Warning:  include(Login_alacrity/link.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/siemats4/public_html/feedback.php on line 5
+[25-Feb-2016 02:06:43 Etc/GMT] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Login_alacrity/link.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/siemats4/public_html/feedback.php on line 5
+[25-Feb-2016 02:06:43 Etc/GMT] PHP Notice:  Undefined variable: link in /home/siemats4/public_html/feedback.php on line 6
+[25-Feb-2016 02:06:43 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/siemats4/public_html/feedback.php on line 6
+[25-Feb-2016 02:09:22 Etc/GMT] PHP Warning:  include(Login_alacrity/link.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/siemats4/public_html/feedback.php on line 5
+[25-Feb-2016 02:09:22 Etc/GMT] PHP Warning:  include(Login_alacrity/link.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/siemats4/public_html/feedback.php on line 5
+[25-Feb-2016 02:09:22 Etc/GMT] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Login_alacrity/link.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/siemats4/public_html/feedback.php on line 5
+[25-Feb-2016 02:09:22 Etc/GMT] PHP Notice:  Undefined variable: link in /home/siemats4/public_html/feedback.php on line 6
+[25-Feb-2016 02:09:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/siemats4/public_html/feedback.php on line 6
+[25-Feb-2016 05:43:39 Etc/GMT] PHP Warning:  include(Login_alacrity/link.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/siemats4/public_html/feedback.php on line 5
+[25-Feb-2016 05:43:39 Etc/GMT] PHP Warning:  include(Login_alacrity/link.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/siemats4/public_html/feedback.php on line 5
+[25-Feb-2016 05:43:39 Etc/GMT] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Login_alacrity/link.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/siemats4/public_html/feedback.php on line 5
+[25-Feb-2016 05:43:39 Etc/GMT] PHP Notice:  Undefined variable: link in /home/siemats4/public_html/feedback.php on line 6
+[25-Feb-2016 05:43:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/siemats4/public_html/feedback.php on line 6

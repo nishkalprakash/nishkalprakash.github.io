@@ -1,0 +1,44 @@
+[19-Feb-2016 06:31:01 Etc/GMT] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/siemats4/public_html/Login_alacrity/link.php on line 3
+[19-Feb-2016 06:31:01 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siemats4/public_html/Login_alacrity/DashBoard.php on line 13
+[19-Feb-2016 06:31:01 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/siemats4/public_html/Login_alacrity/DashBoard.php on line 14
+[19-Feb-2016 13:03:45 Etc/GMT] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/siemats4/public_html/Login_alacrity/link.php on line 3
+[19-Feb-2016 13:03:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siemats4/public_html/Login_alacrity/DashBoard.php on line 13
+[19-Feb-2016 13:03:45 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/siemats4/public_html/Login_alacrity/DashBoard.php on line 14
+[19-Feb-2016 13:03:55 Etc/GMT] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/siemats4/public_html/Login_alacrity/link.php on line 3
+[19-Feb-2016 13:03:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siemats4/public_html/Login_alacrity/DashBoard.php on line 13
+[19-Feb-2016 13:03:55 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/siemats4/public_html/Login_alacrity/DashBoard.php on line 14
+[19-Feb-2016 13:13:16 Etc/GMT] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/siemats4/public_html/Login_alacrity/link.php on line 3
+[19-Feb-2016 13:13:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siemats4/public_html/Login_alacrity/DashBoard.php on line 13
+[19-Feb-2016 13:13:16 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/siemats4/public_html/Login_alacrity/DashBoard.php on line 14
+[19-Feb-2016 13:15:36 Etc/GMT] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/siemats4/public_html/Login_alacrity/link.php on line 3
+[28-Feb-2016 10:08:30 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[28-Feb-2016 10:08:30 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[28-Feb-2016 10:26:39 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[28-Feb-2016 10:26:39 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[01-Mar-2016 08:44:03 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[01-Mar-2016 08:44:03 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[01-Mar-2016 13:09:26 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[01-Mar-2016 13:09:26 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[01-Mar-2016 15:35:10 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[01-Mar-2016 15:35:10 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[01-Mar-2016 17:27:34 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[01-Mar-2016 17:27:34 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[01-Mar-2016 17:27:59 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[01-Mar-2016 17:27:59 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[01-Mar-2016 18:47:58 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[01-Mar-2016 18:47:58 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[02-Mar-2016 07:10:42 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[02-Mar-2016 07:10:42 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[02-Mar-2016 07:10:42 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[02-Mar-2016 07:10:53 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[02-Mar-2016 07:10:53 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[02-Mar-2016 07:10:53 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[02-Mar-2016 07:46:47 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[02-Mar-2016 07:46:47 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[02-Mar-2016 07:46:47 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[02-Mar-2016 07:46:47 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[02-Mar-2016 07:46:47 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[02-Mar-2016 07:46:47 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[02-Mar-2016 08:27:25 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[02-Mar-2016 08:27:25 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36
+[02-Mar-2016 08:27:25 Etc/GMT] PHP Notice:  Undefined index: member_2 in /home/siemats4/public_html/Login_alacrity/show.php on line 36

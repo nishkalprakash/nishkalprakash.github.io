@@ -1,0 +1,7 @@
+
+# mod_pagespeed configuration - Do NOT modify the contents
+<IfModule pagespeed_module>
+    ModPagespeedDomain *
+    ModPagespeed on
+</IfModule>
+# End of mod_pagespeed configuration- Do NOT modify the contents
